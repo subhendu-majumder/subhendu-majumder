@@ -9,3 +9,7 @@ I am Subhendu, from the sweatest part of India- Kolkata. Currently living in USA
 - 📫 my Email ID- subhendu.majumder@outlook.com
 
 [![Subhendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu-majumder)](https://github.com/anuraghazra/github-readme-stats)
+
+
+My latest blog post on Medium
+https://subhendu-majumder.medium.com/how-to-feed-devops-work-items-into-data-lake-ab86d583006e
